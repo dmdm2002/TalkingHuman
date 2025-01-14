@@ -1,0 +1,5 @@
+rag:
+  data_root: 'D:/Side/SieProject/RAG/data'
+  persist_directory: 'D:/Side/SieProject/RAG/data/vector_store'
+  api_key: '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'
+  llm: 'openai'
